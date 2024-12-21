@@ -1,10 +1,14 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E96C7&height=120&section=header&text=Jesus%20Tineo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E96C7&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Scientist+in+Progress+%F0%9F%93%8A;Industrial+Engineering+Student+%F0%9F%8E%93;Analytics+Enthusiast+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight400&size=45&pause=15000&color=FFFF&center=true&vCenter=true&random=false&width=800&height=150&lines=%C2%A1Hola%2C+soy+Jesus+Tineo!+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=900&color=FFFF&center=true&vCenter=true&random=false&width=800&height=40&lines=|Data+Scientist+in+Progress+%F0%9F%93%8A|;|Industrial+Engineering+Student+%F0%9F%8E%93|;|Analytics+Enthusiast+%F0%9F%94%8D|" alt="Typing SVG" />
+</h2>
 
 <br>
 
@@ -23,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img width="600px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3ODMzMWNlYzVkM2VlYzJjZjYyYjgzZDVlZGQ1YzUyZGQxNmM5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science" />
+  <img width="450px" src="https://blogdatlas.wordpress.com/wp-content/uploads/2020/05/datlas_mx_blog_data_analytics_portada.gif" alt="Data Science" />
 </div>
 
 <h2 align="center">
@@ -33,10 +37,10 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Jesus Tineo"
+        self.name = "Jesus Jonas Tineo"
         self.role = "Data Scientist in Progress"
         self.education = "Industrial Engineering @ UNMSM"
-        self.language_spoken = ["es_PE", "en_US"]
+        self.language_spoken = ["es_PE"]
         
     def say_hi(self):
         print("¡Gracias por visitar mi perfil! Me especializo en extraer insights valiosos de los datos.")
@@ -127,7 +131,7 @@ me.say_hi()
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96C7&center=true&vCenter=true&random=false&width=500&height=100&lines=Transformando+datos+en+decisiones;Apasionado+por+la+Data+Science;Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=|Transformando+datos+en+decisiones|;|Apasionado+por+la+Ciencia+de+Datos|;|Siempre+aprendiendo|" alt="Typing SVG" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E96C7&height=120&section=footer"/>
