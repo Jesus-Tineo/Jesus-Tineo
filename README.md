@@ -1,20 +1,20 @@
 <h1 align="center">
 ¡Hola, soy Jesus Tineo!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/Jesus-Tineo" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Jesus-Tineo">
 		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Jesus-Tineo">
 		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Jesus-Tineo">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiande+de+Ingeniería+Industrial;Data+Analytics+/+Data+Science;BI%20|%20AI%20|%20ML%20Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45">
 	</a>
 </p>
@@ -35,18 +35,30 @@
 
 ## 🤝 Conéctate conmigo
 <p align="center">
-	<a href="mailto:jesus.tineocc@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/jesus-tineo-cc/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Jesus-Tineo"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Gmail -->
+  <a href="mailto:jesus.tineocc@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="gmail" height="50" width="50" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jesus-tineo-cc/" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Jesus-Tineo" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" height="50" width="50" />
+  </a>
 </p>
+
 
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/Jesus-Tineo"><img alt="R" src=https://img.shields.io/badge/R%20-%23276DC3.svg?logo=R&logoColor=white
+    <a href="https://github.com/Jesus-Tineo"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
