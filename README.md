@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight400&size=45&pause=15000&color=FFFF&center=true&vCenter=true&random=false&width=800&height=150&lines=%C2%A1Hola%2C+soy+Jesus+Tineo!+%F0%9F%91%8B" alt="Typing SVG" />
