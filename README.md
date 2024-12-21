@@ -1,166 +1,133 @@
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E96C7&height=120&section=header&text=Jesus%20Tineo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+</div>
+
 <h1 align="center">
-¡Hola, soy Jesus Tineo!
-	<a href="https://github.com/Jesus-Tineo" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E96C7&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Scientist+in+Progress+%F0%9F%93%8A;Industrial+Engineering+Student+%F0%9F%8E%93;Analytics+Enthusiast+%F0%9F%94%8D" alt="Typing SVG" />
 </h1>
-<p align="center">
-	<a href="https://github.com/Jesus-Tineo">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/Jesus-Tineo">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
-</p>
-<br/>
-<p align="center">
-	<a href="https://github.com/Jesus-Tineo">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiande+de+Ingeniería+Industrial;Data+Analytics+/+Data+Science;BI%20|%20AI%20|%20ML%20Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas&center=true&width=380&height=45">
-	</a>
-</p>
 
-<hr>
+<br>
 
-<pre>
-🎓 Estudiante de Ingeniería Industrial en la Universidad Nacional Mayor de San Marcos
-📚 Complemento mi formación con una especialización en Data Science y cursos relacionados.
-📝 Tengo un gran interés por Ciencia de Datos, Análisis de Datos y Business Intelligence.
-🔭 Actualmente, trabajo en proyectos de análisis, visualización de datos y optimización de procesos.
-🌱 Aprendiendo más sobre Transformación Digital y Automatización de Procesos con Python y Power Platform.
-🌟 Lenguajes principales: Python, SQL y R.
-🚩 Interesado en desarrollo de aplicaciones analíticas e integración de sistemas para la toma de decisiones.
-🤔Actualmente estoy abierto: <b>Prácticas</b> o una nueva <b>oportunidad laboraly</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
-
-## 🤝 Conéctate conmigo
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:jesus.tineocc@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg" alt="gmail" height="50" width="50" />
+<div align="center">
+  <a href="https://github.com/Jesus-Tineo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jesus-tineo-cc/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/jesus-tineo-cc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/Jesus-Tineo" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" height="50" width="50" />
+  <a href="mailto:jesus.tineocc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
+<br>
 
-## 🛠️ My Favorite Tools
+<div align="center">
+  <img width="600px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3ODMzMWNlYzVkM2VlYzJjZjYyYjgzZDVlZGQ1YzUyZGQxNmM5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science" />
+</div>
 
-### 👨‍💻 Programming Languages
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Perfil Profesional
+</h2>
 
-<p>
-    <a href="https://github.com/Jesus-Tineo"><img alt="R" src=https://img.shields.io/badge/R%20-%23276DC3.svg?logo=R&logoColor=white
-    <a href="https://github.com/Jesus-Tineo"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Jesus Tineo"
+        self.role = "Data Scientist in Progress"
+        self.education = "Industrial Engineering @ UNMSM"
+        self.language_spoken = ["es_PE", "en_US"]
+        
+    def say_hi(self):
+        print("¡Gracias por visitar mi perfil! Me especializo en extraer insights valiosos de los datos.")
 
-### 🧰 Frameworks and Libraries
+    def current_focus(self):
+        focus_areas = {
+            "data_analysis": ["Statistical Analysis", "Data Visualization", "Business Intelligence"],
+            "machine_learning": ["Predictive Modeling", "Classification", "Regression"],
+            "tools": ["Python", "R", "SQL", "Power BI"],
+            "interests": ["Process Optimization", "Data-Driven Decisions", "Automation"]
+        }
+        return focus_areas
+        
+me = DataScientist()
+me.say_hi()
+```
 
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-</p>
+<h2 align="center">🛠️ Stack Tecnológico para Análisis de Datos</h2>
 
-### 🗄️ Databases and Cloud Hosting
+<h3 align="center">📊 Análisis y Visualización</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
 
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-</p>
+<h3 align="center">🔍 Procesamiento de Datos</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dplyr-1A162D?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
 
-### 💻 Software and Tools
+<h3 align="center">📈 Machine Learning & Estadística</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-</br>
+<h3 align="center">💾 Bases de Datos</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</div>
 
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
+<h2 align="center">🎯 Próximos Objetivos</h2>
 
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="100px" height="100px"/><br>
+        <strong>Proyectos de ML</strong><br>
+        Desarrollar proyectos de análisis predictivo
+      </td>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px" height="100px"/><br>
+        <strong>Visualización Avanzada</strong><br>
+        Crear dashboards interactivos
+      </td>
+      <td align="center" width="250px">
+        <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="100px" height="100px"/><br>
+        <strong>Cloud Analytics</strong><br>
+        Dominar herramientas cloud para big data
+      </td>
+    </tr>
+  </table>
+</div>
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+<h2 align="center">🤝 ¿Interesado en colaborar?</h2>
 
-<br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
--->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
+<div align="center">
+  <p>
+    <strong>Actualmente en búsqueda de:</strong>
+  </p>
+  <img src="https://img.shields.io/badge/Prácticas_en_Data-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Proyectos_de_Análisis-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Oportunidades_BI-EA4335?style=for-the-badge"/>
+  <p>
+    📄 Revisa mi <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing">CV aquí</a>
+  </p>
+</div>
 
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
+<br>
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96C7&center=true&vCenter=true&random=false&width=500&height=100&lines=Transformando+datos+en+decisiones;Apasionado+por+la+Data+Science;Siempre+aprendiendo" alt="Typing SVG" />
+</div>
 
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
-
-------
-
-[Bouaskaoun](https://github.com/Bouaskaoun)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E96C7&height=120&section=footer"/>
